@@ -1,0 +1,14 @@
+# For making API requests
+requests==2.31.0
+
+# For data manipulation and analysis
+pandas==2.2.2
+
+# For scheduling the script to run automatically
+schedule==1.2.1
+
+# For data visualization (optional, for later phases)
+matplotlib==3.8.4
+
+# For creating the interactive web dashboard (optional, for later phases)
+streamlit==1.33.0
